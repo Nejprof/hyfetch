@@ -640,7 +640,11 @@ PRESETS: dict[str, ColorProfile] = {
         "#FFFFFF",
         "#593C90"
     ]),
-
+    'czech' : ColorProfile([
+        "#FFFFFF",
+        "#D7141A",
+        "#11457E"
+    ]),
     # Meme flags
     'beiyang': ColorProfile([
         '#DF1B12',
